@@ -157,10 +157,6 @@ msgstr "Infos sur la grille"
 msgid "0.3.0"
 msgstr ""
 
-# wpml-name: f279731266ee1b5ff0b7bd85e585dfef
-msgid "https://speculoos.world"
-msgstr "https://speculoos.world/fr"
-
 # wpml-name: 1f1f2dbee41fbf293b58439226ee0faf
 msgid "Speculoos"
 msgstr "Speculoos"

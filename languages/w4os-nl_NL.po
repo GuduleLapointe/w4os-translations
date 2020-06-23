@@ -3,8 +3,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: w4os\n"
-"POT-Creation-Date: 2020-06-23 15:35:20-0400\n"
-"PO-Revision-Date: 2020-06-23 15:35:47-0400\n"
+"POT-Creation-Date: 2020-06-23 16:18:55-0400\n"
+"PO-Revision-Date: 2020-06-23 16:20:00-0400\n"
 "Last-Translator: Olivier van Helden\n"
 "Language-Team: Speculoos World\n"
 "Language:nl_NL\n"
@@ -165,6 +165,10 @@ msgstr "Leden op grid"
 #
 msgid "Total users in world"
 msgstr "Gebruikers op grid"
+
+#
+msgid "Active users (30 days)"
+msgstr "Actieve gebruikers (30 dagen)"
 
 #
 msgid "Total area"
